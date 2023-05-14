@@ -1,4 +1,4 @@
-# EXP-3-Java-program-to-find-the-number-of-days-in-a-month
+# EXP-3-Java-program-to-find-the-number-of-days-in-a-month.
 
 ## AIM:
 To write a java program to find the number of days in a month.
@@ -73,9 +73,7 @@ public class Main {
 
 ## OUTPUT:
 
+![3](https://github.com/abdulwasih2003/EXP--3-Java-program-to-find-the-number-of-day-in-a-month/assets/91781810/75be0368-ae73-4094-8a9c-194c0e5bd633)
 
 ## RESULT:
 Thus the java program to print the even numbers between 1-20 is successful.
-
-
-
